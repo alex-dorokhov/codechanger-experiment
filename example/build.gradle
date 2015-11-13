@@ -1,0 +1,2 @@
+apply plugin: 'java'
+apply plugin: de.greenrobot.codechanger.CodeChangerPlugin
