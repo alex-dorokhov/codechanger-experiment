@@ -7,4 +7,5 @@ repositories {
 dependencies {
     compile gradleApi()
     compile 'com.github.javaparser:javaparser-core:2.3.0'
+    compile 'org.eclipse.jdt:core:3.3.0-v_771'
 }

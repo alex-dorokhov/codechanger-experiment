@@ -1,2 +1,2 @@
 apply plugin: 'java'
-apply plugin: de.greenrobot.codechanger.CodeChangerPlugin
+apply plugin: de.greenrobot.codechanger.JdtCodeChangerPlugin
